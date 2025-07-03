@@ -1,0 +1,1 @@
+/cwbase/service/qyzj/AllotOrderSrv.asmx
