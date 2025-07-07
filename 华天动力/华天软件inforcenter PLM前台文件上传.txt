@@ -1,0 +1,1 @@
+/Base/BaseHandler.ashx?type=uploadFileToIIS&uploadPath=../Files/
