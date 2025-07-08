@@ -1,0 +1,1 @@
+GET /tplus/ajaxpro/Ufida.T.SM.UIP.Tool.AccountClearControler,Ufida.T.SM.UIP.ashx?method=GetisInitBCRetail HTTP/1.1

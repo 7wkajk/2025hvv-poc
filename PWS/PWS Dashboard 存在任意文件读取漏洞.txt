@@ -1,0 +1,1 @@
+GET /others/_test.php?test=../../../apache/conf/ssl.key/server.key HTTP/1.1

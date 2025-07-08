@@ -1,0 +1,1 @@
+GET /bi/api/SemanticModel/GetOlapConnectionList/?token=e30fe47a-f33e-463e-bc4a-843957ca88dd_263720ea7e397482da220115cae828_1214162142339 HTTP/1.1

