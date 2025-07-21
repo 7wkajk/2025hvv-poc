@@ -1,0 +1,5 @@
+POST /jeecg-boot/drag/onlDragDatasetHead/getTotalData HTTP/1.1
+Host: 
+Content-Type: application/json
+
+{"tableName": "sys_user", "compName": "test", "condition": {"filter": {}}, "config": {"assistValue": [], "assistType": [], "name": [{"fieldName": "username,password,salt", "fieldType": "string"}, {"fieldName": "id", "fieldType": "string"}], "value": [{"fieldName": "id", "fieldType": "string"}], "type": []}}

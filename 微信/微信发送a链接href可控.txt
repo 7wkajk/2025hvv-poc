@@ -1,0 +1,8 @@
+<a
+href="weixin://bizmsgmenu
+?msgmenucontent=
+&msgmenuid=960">https://chinamobile.com/shell.jsp</a >
+
+<a href="weixin://jump/voipdetail/?data=1">点击起飞</a>
+<a href="weixin://voip/callagain/?username=ponyma">点我和马化腾打电话</a>
+<a href="weixin://findfriend/verifycontact/">我加我自己</a >
